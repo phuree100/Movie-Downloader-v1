@@ -1,0 +1,5 @@
+typing,
+cursor,
+get-key,
+tqdm,
+requests
