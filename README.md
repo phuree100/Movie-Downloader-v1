@@ -8,3 +8,6 @@ get the link and setup it tell you
 # Hot to use? - mobile
 use f12 app and go to #https://หนังออนไลน์.com/ Find you Movie And Play Open Network and Copy the name like cdn2.cdn9x.com/#####/####p_###.ts and the file are .ts
 get the link and setup it tell you
+
+# Installing?
+pip install -r requirements.txt
