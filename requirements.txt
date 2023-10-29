@@ -1,5 +1,5 @@
-typing,
-cursor,
-get-key,
-tqdm,
-requests
+typing==3.6.2
+cursor==3.5.0b1
+get-key==1.60.0
+tqdm==4.66.1
+requests==2.31.0
